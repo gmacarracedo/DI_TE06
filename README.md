@@ -1,11 +1,14 @@
 # DI_TE06
 Repositoria para Tarea Evaluativa de Diseño de Interfaces 06
 
+
 ### Indice
 
 1. About 
 2. Contacto
 3. Referencias
+
+
 
 
 #### 1. About (Sobre la aplicacion)
@@ -19,6 +22,9 @@ obtenidas, etc.
 El uso del Dashboard esta enfocado a la persona encargada de manejar la informacion que se muestra, 
 ya sean vendedores o el propio empresario para obenter un rapido vistazo del estado de la empresa.
 
+
+
+
 ##### 2. Contacto
 
 La aplicación ha sido creada con animo de llevar a cabo las tareas de aprendizaje del curso de Diseño de Interfaces,
@@ -28,6 +34,7 @@ aprendizaje se refiere y mejorar asi mis habilidades como programadora.
 Para solventar cualquier duda dejo disponible la siguiente dirreccion de contacto:
 
 gmnineu@gmail.como
+
 
 
 
