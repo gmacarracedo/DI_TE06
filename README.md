@@ -1,14 +1,14 @@
 # DI_TE06
 Repositoria para Tarea Evaluativa de Diseño de Interfaces 06
 
-###Indice
+### Indice
 
 1. About 
 2. Contacto
 3. Referencias
 
 
-####1. About (Sobre la aplicacion)
+#### 1. About (Sobre la aplicacion)
 
 Esta aplicacion funciona como un Dashboard que muestra datos sobre los habitos de compra de
 los clientes de NorthWinds, muestra en distintos graficos los detalles de cada compra realizada por el cliente
@@ -19,7 +19,7 @@ obtenidas, etc.
 El uso del Dashboard esta enfocado a la persona encargada de manejar la informacion que se muestra, 
 ya sean vendedores o el propio empresario para obenter un rapido vistazo del estado de la empresa.
 
-#####2. Contacto
+##### 2. Contacto
 
 La aplicación ha sido creada con animo de llevar a cabo las tareas de aprendizaje del curso de Diseño de Interfaces,
 y asi mismo como estudiante del mismo, con el fin de lograr los objetivos en cuanto a mi 
@@ -31,7 +31,7 @@ gmnineu@gmail.como
 
 
 
-#####3. Referencias
+##### 3. Referencias
 
 Para llevar a cabo este trabajo se han seguido como referencia a demas de los apuntes y videos facilitados por el profesor los
 siguientes enlaces 
